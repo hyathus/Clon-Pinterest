@@ -1,0 +1,63 @@
+	<div class="margin"> 
+            <div class="img2">
+                <div class="btn">
+                    <div class="middle-btn">
+                    <button class="btn-top" type="button">Guardar</button>
+                    </div>
+                    <div class="second-btn-1">
+                        <div class="btn-bottom-1">
+                            <button type="button"><span id="arrow-east" class="material-symbols-outlined">
+                                north_east</span>  DevianArt.</button>
+                        <div class="grid">
+                            <button type="button"><span class="material-symbols-outlined">file_upload</span></button>
+                            <button type="button"><span class="material-symbols-outlined">more_horiz</span></button>
+                        </div>
+                        </div>
+                    </div>
+                </div>
+                <img src="img/tres_03.jpg" alt="la literatura es la manera más agradable de ignorar la vida">
+            </div>
+        </div>
+        
+    <div class="margin"> 
+        <div class="img2">
+            <div class="btn">
+                <div class="fist-button-1">
+                <button class="btn-top" type="button">Guardar</button>
+                </div>
+                <div class="second-btn-1">
+                    <div class="btn-bottom-1">
+                        <button type="button"><span id="arrow-east" class="material-symbols-outlined">
+                            north_east</span>  DevianArt.</button>
+                    <div class="grid">
+                        <button type="button"><span class="material-symbols-outlined">file_upload</span></button>
+                        <button type="button"><span class="material-symbols-outlined">more_horiz</span></button>
+                    </div>
+                    </div>
+                </div>
+            </div>
+            <img src="https://i.pinimg.com/564x/ec/79/02/ec79024389e7f95b8cfa1ee6a413498c.jpg" alt="sea">
+        </div>
+    </div>
+    
+    <div class="margin">
+    <div class="img2">
+            <div class="btn">
+                <div class="fist-button">
+                <button class="btn-top btn-top-direction" type="button">Guardar</button>
+                </div>
+                <div class="second-btn">
+                    <div class="btn-bottom">
+                        <button type="button"><span id="arrow-east" class="material-symbols-outlined">
+                            north_east</span>  DevianArt.</button>
+                    <div class="grid">
+                        <button type="button"><span class="material-symbols-outlined">file_upload</span></button>
+                        <button type="button"><span class="material-symbols-outlined">more_horiz</span></button>
+                    </div>
+                    </div>
+                </div>
+            </div>
+            <img src="https://i.pinimg.com/564x/42/27/df/4227dfd0b4caac3d62732d09acdac03b.jpg" alt="figure ">
+        </div>
+    </div>
+    
